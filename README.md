@@ -1,3 +1,5 @@
+# HELLO!
+
 - 👋 Hi, I’m Bea
 - 👀 I’m interested in C, GOOLANG, JS...
 - 🌱 I’m currently learning GOOGLE CLOUD
